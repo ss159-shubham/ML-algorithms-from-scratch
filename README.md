@@ -8,7 +8,6 @@ A personal repository where I implement core machine learning algorithms **from 
 
 This repo is a **learning project** for:
 - Building foundational understanding of **ML algorithms**
-- Preparing for **quantitative trading** and **ML interviews**
 - Gaining confidence in algorithm implementation without relying on black-box libraries
 
 ---
