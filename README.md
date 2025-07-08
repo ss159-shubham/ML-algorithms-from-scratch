@@ -52,7 +52,6 @@ This repository is organized in a layered approach:
 - Python
 - NumPy
 - Matplotlib (for plotting)
-- Zero use of external ML libraries
 
 ---
 
