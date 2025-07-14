@@ -55,12 +55,4 @@ This repository is organized in a layered approach:
 
 ---
 
-## 🎯 Project Status
-
-- ✅ Linear Regression implemented
-- 🔜 Next: Logistic Regression / Perceptron
-- 🚧 Ongoing: Utility improvements, plotting, comparison with sklearn
-
----
-
 
