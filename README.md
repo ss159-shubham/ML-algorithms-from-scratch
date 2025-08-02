@@ -1,6 +1,6 @@
 # 💻 Machine Learning From Scratch
 
-A personal repository where I implement core machine learning algorithms **from the ground up** using only `NumPy` — no high-level libraries like `scikit-learn` or `TensorFlow`. The goal is to deeply understand the math and mechanics behind each model.
+A personal repository where I implement core machine learning algorithms **from the ground up** using only `NumPy` — no high-level libraries like `scikit-learn` or `TensorFlow`. The goal is to understand the math and mechanics behind each model deeply.
 
 ---
 
@@ -23,7 +23,7 @@ This repository is organized in a layered approach:
 ### ✅ 2. Core ML Algorithms
 
 #### 🔷 Linear Models
-- `Linear Regression` (implemented ✅)
+- `Linear Regression` 
 - `Polynomial Regression`
 - `Logistic Regression`
 - `Perceptron`
