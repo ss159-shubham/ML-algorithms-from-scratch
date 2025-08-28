@@ -44,7 +44,7 @@ This repository is organized in a layered approach:
 - `Multilayer Perceptron (MLP)`
 - `Convolutional Neural Network (CNN)`
 - `Recurrent Neural Network (RNN)`
-- `Deep Q-Network (DQN)`
+- `Tabular Q-Network`
 
 ---
 
