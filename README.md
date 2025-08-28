@@ -40,11 +40,13 @@ This repository is organized in a layered approach:
 #### 🧩 Dimensionality Reduction
 - `Principal Component Analysis (PCA)`
 
+#### 🧠 Reinforcement Learning
+- `Tabular Q Learning`
+
 #### 🧠 Neural Models
 - `Multilayer Perceptron (MLP)`
 - `Convolutional Neural Network (CNN)`
 - `Recurrent Neural Network (RNN)`
-- `Tabular Q-Network`
 
 ---
 
